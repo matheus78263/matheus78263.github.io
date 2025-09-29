@@ -46,9 +46,9 @@ section > *:last-child { margin-bottom: 0 !important }
 @media (min-width: 768px) {
     header { 
         padding-top: 3%; 
-        padding-right: 20%;
+        padding-right: 10%;
         padding-bottom: 0%;
-        padding-left: 20%
+        padding-left: 10%
     }
 }
                         
